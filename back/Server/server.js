@@ -121,3 +121,5 @@ const Client = sequelize.define('Client', {
   .catch((err) => {
     console.error('Erreur lors de la synchronisation du modèle :', err);
   });
+
+  //jkgjjjjjjjjjjjjjjjjjjjjj ordino
