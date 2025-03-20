@@ -51,6 +51,7 @@ const Client = sequelize.define('Client', {
             res.status(500).json({ error: 'Erreur serveur' });
           });
     })
+    //mamitina
     app.delete('/Delete/:id', (req, res) => {
         const id = req.params.id;
       
