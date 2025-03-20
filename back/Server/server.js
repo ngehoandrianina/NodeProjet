@@ -125,3 +125,9 @@ const Client = sequelize.define('Client', {
 
   //jkgjjjjjjjjjjjjjjjjjjjjj ordino
   // tu est faux
+  // tu est faux
+  
+  //Santatyra
+
+
+  ///Antonio 
